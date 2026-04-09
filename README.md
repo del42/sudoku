@@ -6,8 +6,6 @@ No popups.
 No interruptions.  
 No clutter.  
 
-👉 **Play instantly in your browser**
-
 ## 😤 Why I Built This
 
 Sudoku apps got annoying:
